@@ -2,7 +2,7 @@
 ### Play Now: https://www.reddit.com/r/My_RefleX/
 
 ## Demo Video
-[![DEMO](https://img.youtube.com/vi/FD4Ltil-6Zk/0.jpg)](https://www.youtube.com/watch?v=FD4Ltil-6Zk)
+[![DEMO](https://img.youtube.com/vi/FD4Ltil-6Zk/0.jpg)](https://www.youtube.com/watch?v=FD4Ltil-6Zk)![CAL](remarks.png)
 
 ## Inspiration
 Fast decision-making and sharp reflexes are essential in many aspects of life, from gaming to real-world problem-solving. We wanted to create a fun yet challenging experience that pushes players to react quickly under pressure while keeping them engaged with dynamic visuals and evolving difficulty levels.
